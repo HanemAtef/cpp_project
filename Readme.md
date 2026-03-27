@@ -24,10 +24,3 @@ A C++ console application for managing students and their course enrollments.
 - C++ compiler with C++11 support (g++, clang++, MSVC)
 - No external libraries required
 
-## How to Compile and Run
-
-### Using g++ (Linux/Mac):
-
-```bash
-g++ -std=c++11 main.cpp -o student_management
-./student_management
